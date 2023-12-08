@@ -10,13 +10,13 @@ This repository is a small collection of simple PowerShell scripts that help Scr
 
 ## Scripts
 
-| Script Name                 | Description                                                                                                                                                                                                        |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `Backup-ScreenConnect.ps1`  | Backs up your ScreenConnect folder to a zip file located on your desktop. It stops ScreenConnect services, zips the folder, and then restarts the services.                                                        |
-| `Update-ScreenConnect.ps1`  | Updates your ScreenConnect server to the latest version. The script stops the services, downloads the latest stable version by scraping the ScreenConnect website, installs the update, and restarts the services. |
-| `Start-ScreenConnect.ps1`   | Starts the ScreenConnect services.                                                                                                                                                                                 |
-| `Stop-ScreenConnect.ps1`    | Stops the ScreenConnect services.                                                                                                                                                                                  |
-| `Restart-ScreenConnect.ps1` | Restarts the ScreenConnect services.                                                                                                                                                                               |
+| Script Name                 | Description                                                                                                                                                                                                                                                                |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Backup-ScreenConnect.ps1`  | Backs up your ScreenConnect folder to a zip file located on your desktop. It stops ScreenConnect services, zips the folder, and then restarts the services.                                                                                                                |
+| `Update-ScreenConnect.ps1`  | Updates your ScreenConnect server to the latest version. The script stops the services, downloads the latest stable version by scraping the ScreenConnect website, installs the update, and restarts the services. This does not update agents, only ScreenConnect itself. |
+| `Start-ScreenConnect.ps1`   | Starts the ScreenConnect services.                                                                                                                                                                                                                                         |
+| `Stop-ScreenConnect.ps1`    | Stops the ScreenConnect services.                                                                                                                                                                                                                                          |
+| `Restart-ScreenConnect.ps1` | Restarts the ScreenConnect services.                                                                                                                                                                                                                                       |
 
 ## Usage
 
