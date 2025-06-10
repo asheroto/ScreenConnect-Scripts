@@ -4,7 +4,8 @@
 
 # ScreenConnect Scripts / ConnectWise Control Scripts
 
-**NOTE:** These scripts are ONLY for self-hosted installations, which is less commonly used. These scripts will NOT work on the cloud-based version.
+> [!IMPORTANT]
+> These scripts are **ONLY** for self-hosted installations, which is less commonly used. **These scripts will NOT work on the cloud-based version.** Please do not contact me asking about backing up and restoring ScreenConnect for the cloud.
 
 I went back and forth between the two names, but I think I'm going to stick with ScreenConnect Scripts since the name of the EXE and the Windows Service is ScreenConnect.
 
